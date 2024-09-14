@@ -1,0 +1,12 @@
+IDE - Integrated Development Environment
+OOP - Object Oriented Programming
+UX - User Experience
+KSON - JavaScript Object Notation
+FIFO - First In First Out
+LIFO - Last In First Out
+TDD - Test Driven Development
+Saas - Software as a Service
+Paas - Platform as a Service
+IaaS - Infrastructure as a Service
+ML - Machine Learning
+AI - Artificial Intelligence
