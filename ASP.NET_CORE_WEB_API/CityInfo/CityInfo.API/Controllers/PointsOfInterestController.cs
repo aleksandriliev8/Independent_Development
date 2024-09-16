@@ -21,9 +21,9 @@ namespace CityInfo.API.Controllers
             return Ok(city.PointsOfInterest);
         }
 
-        [HttpGet("{pointsofinterestid}")]
+        [HttpGet("{pointsofinterestid}", Name = "GetPointOfInterest")]
         public ActionResult<PointOfInterestDto> GetPointsOfInterest(
-            int cityId, int pointsofinterestid)
+            int cityId, int pointsOfInterestId)
         {
             var city = CitiesDataStore.Current.Cities.
                 FirstOrDefault(c => c.Id == cityId);
@@ -35,7 +35,7 @@ namespace CityInfo.API.Controllers
 
             //find point of interest
             var pointOfInterest = city.PointsOfInterest.
-                FirstOrDefault(c => c.Id == pointsofinterestid);
+                FirstOrDefault(c => c.Id == pointsOfInterestId);
 
             if (pointOfInterest == null)
             {
@@ -43,6 +43,38 @@ namespace CityInfo.API.Controllers
             }
 
             return Ok(pointOfInterest);
+        }
+
+        [HttpPost]
+        public ActionResult<PointOfInterestDto> CreatePointOfInterest(
+            int cityId, 
+            PointOfInterestForCreationDto pointOfInterest)
+        {
+            var city = CitiesDataStore.Current.Cities.FirstOrDefault(c => c.Id == cityId);
+            if(city == null)
+            {
+                return NotFound();
+            }
+
+            //demo purposes only
+            var maxPointOfInterestId = CitiesDataStore.Current.Cities.SelectMany(
+                c => c.PointsOfInterest).Max(p => p.Id);
+
+            var finalPointOfInterest = new PointOfInterestDto()
+            {
+                Id = ++maxPointOfInterestId,
+                Name = pointOfInterest.Name,
+                Description = pointOfInterest.Description
+            };
+            city.PointsOfInterest.Add(finalPointOfInterest);
+
+            return CreatedAtRoute("GetPointOfInterest",
+                new
+                {
+                    cityId = cityId,
+                    pointsofinterestid = finalPointOfInterest.Id
+                },
+                finalPointOfInterest);
         }
     }
 }

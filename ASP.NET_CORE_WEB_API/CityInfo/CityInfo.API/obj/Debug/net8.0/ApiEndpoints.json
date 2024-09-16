@@ -51,9 +51,9 @@
   },
   {
     "ContainingType": "CityInfo.API.Controllers.PointsOfInterestController",
-    "Method": "GetPointsOfInterest",
-    "RelativePath": "api/cities/{cityId}/pointsofinterest/{pointsofinterestid}",
-    "HttpMethod": "GET",
+    "Method": "CreatePointOfInterest",
+    "RelativePath": "api/cities/{cityId}/pointsofinterest",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -63,8 +63,8 @@
         "IsRequired": true
       },
       {
-        "Name": "pointsofinterestid",
-        "Type": "System.Int32",
+        "Name": "pointOfInterest",
+        "Type": "CityInfo.API.Models.PointOfInterestForCreationDto",
         "IsRequired": true
       }
     ],
@@ -81,6 +81,40 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "CityInfo.API.Controllers.PointsOfInterestController",
+    "Method": "GetPointsOfInterest",
+    "RelativePath": "api/cities/{cityId}/pointsofinterest/{pointsofinterestid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cityId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pointsOfInterestId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CityInfo.API.Models.PointOfInterestDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetPointOfInterest"
   },
   {
     "ContainingType": "CityInfo.API.Controllers.CitiesController",
