@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\1\\desktop\\programming\\development\\asp.net_core_web_api\\cityinfo\\cityinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\1\\desktop\\programming\\development\\asp.net_core_web_api\\cityinfo\\cityinfo.api\\citiesdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\citiesdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\1\\desktop\\programming\\development\\asp.net_core_web_api\\cityinfo\\cityinfo.api\\cityinfo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\cityinfo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\1\\desktop\\programming\\development\\asp.net_core_web_api\\cityinfo\\cityinfo.api\\models\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\models\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,6 +28,20 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CityDto.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\Models\\CityDto.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Models\\CityDto.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\Models\\CityDto.cs",
+              "RelativeToolTip": "CityInfo.API\\Models\\CityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:42:53.033Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -51,26 +65,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "CityInfo.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "CityInfo.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-16T00:28:07.944Z",
+              "Title": "CitiesDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\CitiesDataStore.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\CitiesDataStore.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\CitiesDataStore.cs",
+              "RelativeToolTip": "CityInfo.API\\CitiesDataStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T15:49:21.862Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CityInfo.API",
-              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
-              "RelativeDocumentMoniker": "CityInfo.API\\CityInfo.API.csproj",
-              "ToolTip": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
-              "RelativeToolTip": "CityInfo.API\\CityInfo.API.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-16T00:24:55.45Z"
             },
             {
               "$type": "Document",
@@ -80,7 +83,7 @@
               "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\CitiesController.cs",
               "ToolTip": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\Controllers\\CitiesController.cs*",
               "RelativeToolTip": "CityInfo.API\\Controllers\\CitiesController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T00:50:38.701Z",
               "EditorCaption": ""
@@ -93,7 +96,7 @@
               "RelativeDocumentMoniker": "CityInfo.API\\Program.cs",
               "ToolTip": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\Program.cs",
               "RelativeToolTip": "CityInfo.API\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T21:44:08.116Z",
               "EditorCaption": ""
