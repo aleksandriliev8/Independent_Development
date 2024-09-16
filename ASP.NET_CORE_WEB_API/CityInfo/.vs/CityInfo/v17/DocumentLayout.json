@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\1\\desktop\\programming\\development\\asp.net_core_web_api\\cityinfo\\cityinfo.api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\1\\desktop\\programming\\development\\asp.net_core_web_api\\cityinfo\\cityinfo.api\\controllers\\pointsofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\controllers\\pointsofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\1\\desktop\\programming\\development\\asp.net_core_web_api\\cityinfo\\cityinfo.api\\models\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\models\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\1\\desktop\\programming\\development\\asp.net_core_web_api\\cityinfo\\cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\1\\desktop\\programming\\development\\asp.net_core_web_api\\cityinfo\\cityinfo.api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\1\\desktop\\programming\\development\\asp.net_core_web_api\\cityinfo\\cityinfo.api\\citiesdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\citiesdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\1\\desktop\\programming\\development\\asp.net_core_web_api\\cityinfo\\cityinfo.api\\models\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\models\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|c:\\users\\1\\desktop\\programming\\development\\asp.net_core_web_api\\cityinfo\\cityinfo.api\\models\\pointofinterestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C970A893-245F-42AA-BD43-1F3757B9696A}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\models\\pointofinterestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CityDto.cs",
               "DocumentMoniker": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\Models\\CityDto.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Models\\CityDto.cs",
               "ToolTip": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\Models\\CityDto.cs",
               "RelativeToolTip": "CityInfo.API\\Models\\CityDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T11:42:53.033Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -63,19 +72,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "PointsOfInterestController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\Controllers\\PointsOfInterestController.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\PointsOfInterestController.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\Controllers\\PointsOfInterestController.cs",
+              "RelativeToolTip": "CityInfo.API\\Controllers\\PointsOfInterestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:25:39.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PointOfInterestDto.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\Models\\PointOfInterestDto.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Models\\PointOfInterestDto.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\Models\\PointOfInterestDto.cs",
+              "RelativeToolTip": "CityInfo.API\\Models\\PointOfInterestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:08:14.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CitiesDataStore.cs",
               "DocumentMoniker": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\CitiesDataStore.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\CitiesDataStore.cs",
               "ToolTip": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\CitiesDataStore.cs",
               "RelativeToolTip": "CityInfo.API\\CitiesDataStore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T15:49:21.862Z"
+              "WhenOpened": "2024-09-16T15:49:21.862Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CitiesController.cs",
               "DocumentMoniker": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\Controllers\\CitiesController.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\CitiesController.cs",
@@ -88,15 +124,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\Program.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Program.cs",
               "ToolTip": "C:\\Users\\1\\Desktop\\Programming\\Development\\ASP.NET_CORE_WEB_API\\CityInfo\\CityInfo.API\\Program.cs",
               "RelativeToolTip": "CityInfo.API\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T21:44:08.116Z"
+              "WhenOpened": "2024-09-15T21:44:08.116Z",
+              "EditorCaption": ""
             }
           ]
         }
