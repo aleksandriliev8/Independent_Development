@@ -31,3 +31,4 @@ C:\Users\1\Desktop\Programming\Development\ASP.NET_CORE_WEB_API\CityInfo\CityInf
 C:\Users\1\Desktop\Programming\Development\ASP.NET_CORE_WEB_API\CityInfo\CityInfo.API\obj\Debug\net8.0\CityInfo.API.pdb
 C:\Users\1\Desktop\Programming\Development\ASP.NET_CORE_WEB_API\CityInfo\CityInfo.API\obj\Debug\net8.0\CityInfo.API.genruntimeconfig.cache
 C:\Users\1\Desktop\Programming\Development\ASP.NET_CORE_WEB_API\CityInfo\CityInfo.API\obj\Debug\net8.0\ref\CityInfo.API.dll
+C:\Users\1\Desktop\Programming\Development\ASP.NET_CORE_WEB_API\CityInfo\CityInfo.API\bin\Debug\net8.0\sample.pdf
